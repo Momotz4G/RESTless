@@ -7,6 +7,10 @@ RESTless is a minimalist, **local-first** REST API client built for developers w
 
 Because RESTless is a **local-first** application, all of your data—including your request history, saved collections, and configurations—is stored securely on your local device using IndexedDB (via Dexie.js). None of your requests or history are ever sent to an external server.
 
+<div align="center">
+  <img src="public/screenshot.png" alt="RESTless App Screenshot" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
+</div>
+
 ## Features
 
 - **Local-First Architecture**: Your data never leaves your device. Everything is saved locally for maximum privacy and speed.
